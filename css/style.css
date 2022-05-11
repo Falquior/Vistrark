@@ -327,6 +327,40 @@ nav.small {
   	background-repeat: no-repeat;
 }
 
+.home-page-photo2 {
+	background-image: url(https://leoindependiente.co/fichas/OE1735/art/portada.jpg);
+	background-size: cover;
+	z-index: -1;
+	position: absolute;
+	top: 0;
+	opacity: 0.50;
+	right: 0;
+	bottom: 0;
+	left: 0;
+  	filter: blur(8px);
+  	-webkit-filter: blur(8px);
+  	height: 100%;
+  	background-position: center;
+  	background-repeat: no-repeat;
+}
+
+.home-page-photo3 {
+	background-image: url(https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_CrisTales.jpg);
+	background-size: cover;
+	z-index: -1;
+	position: absolute;
+	top: 0;
+	opacity: 0.50;
+	right: 0;
+	bottom: 0;
+	left: 0;
+  	filter: blur(8px);
+  	-webkit-filter: blur(8px);
+  	height: 100%;
+  	background-position: center;
+  	background-repeat: no-repeat;
+}
+
 .home__header-content {
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
