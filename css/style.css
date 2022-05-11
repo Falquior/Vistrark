@@ -461,7 +461,7 @@ footer p{
 ----------------------------------------------------------------------------- */
 @media only screen and (max-width: 767px) {
 	.navbar-custom {
-		background-color: #ffffff;
+		background-color: #000000;
 	}
 	.navbar-custom .navbar-brand {
 		color: #000;
