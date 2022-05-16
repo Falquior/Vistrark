@@ -676,6 +676,18 @@ ul.pattern .color12 {
 	height: 250px;
   }
 
+  .yo2 {
+	vertical-align: middle;
+	width: 200px;
+	height: 250px;
+  }
+
+  .yo3 {
+	vertical-align: middle;
+	width: 250px;
+	height: 200px;
+  }
+
   * {
 	box-sizing: border-box;
   }
